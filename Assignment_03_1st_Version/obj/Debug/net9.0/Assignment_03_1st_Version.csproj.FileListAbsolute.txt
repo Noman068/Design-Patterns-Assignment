@@ -1,0 +1,14 @@
+D:\Assignment_03_1st_Version\obj\Debug\net9.0\Assignment_03_1st_Version.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment_03_1st_Version\obj\Debug\net9.0\Assignment_03_1st_Version.AssemblyInfoInputs.cache
+D:\Assignment_03_1st_Version\obj\Debug\net9.0\Assignment_03_1st_Version.AssemblyInfo.cs
+D:\Assignment_03_1st_Version\obj\Debug\net9.0\Assignment_03_1st_Version.csproj.CoreCompileInputs.cache
+D:\Assignment_03_1st_Version\bin\Debug\net9.0\Assignment_03_1st_Version.exe
+D:\Assignment_03_1st_Version\bin\Debug\net9.0\Assignment_03_1st_Version.deps.json
+D:\Assignment_03_1st_Version\bin\Debug\net9.0\Assignment_03_1st_Version.runtimeconfig.json
+D:\Assignment_03_1st_Version\bin\Debug\net9.0\Assignment_03_1st_Version.dll
+D:\Assignment_03_1st_Version\bin\Debug\net9.0\Assignment_03_1st_Version.pdb
+D:\Assignment_03_1st_Version\obj\Debug\net9.0\Assignment_03_1st_Version.dll
+D:\Assignment_03_1st_Version\obj\Debug\net9.0\refint\Assignment_03_1st_Version.dll
+D:\Assignment_03_1st_Version\obj\Debug\net9.0\Assignment_03_1st_Version.pdb
+D:\Assignment_03_1st_Version\obj\Debug\net9.0\Assignment_03_1st_Version.genruntimeconfig.cache
+D:\Assignment_03_1st_Version\obj\Debug\net9.0\ref\Assignment_03_1st_Version.dll
